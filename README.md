@@ -13,7 +13,7 @@
 - ✨ I also have a strong interest in **mathematics, programming** and **data visualization**  
   
 
-- ⚡ I love games (**Valorant, CS2**, **DDraceNetwork**) and animes (**Case Closed**, **K-On!**), etc.
+- ⚡ I love games (**Valorant, CS2**, **DDraceNetwork**) and animes (**Case Closed**, **K-On!**)
 
 
 - 🤣 You may want to find more information in [My Homepage](https://z1zs.github.io/)  
