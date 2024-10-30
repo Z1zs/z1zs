@@ -77,12 +77,19 @@
 
 
 ## Connect with me  
+<a href="https://huggingface.co/Z1zs" target="_blank">
+<img src=https://img.shields.io/badge/huggingface-%232429.svg?&style=for-the-badge&logo=huggingface&logoColor=white alt=huggingface style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.kaggle.com/z1zsss" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Z1zs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.cn/u/sharp-noetherxzp/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%F6EFBD.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>  
+
   
 
 <br/>  
