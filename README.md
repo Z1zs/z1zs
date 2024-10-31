@@ -114,6 +114,33 @@
 </div>  
 
 <br />
-     
-----     
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+<details>
+  <summary>
+    Recommended Links
+  </summary>
+  
+  ## Blogs & Websites
+  [Decoding intermediate activations in llama-2-7b](https://www.lesswrong.com/posts/fJE6tscjGRPnK8C2C/decoding-intermediate-activations-in-llama-2-7b)     
+  [Advanced skills for Python](https://realpython.com/search?kind=article&kind=course&level=advanced)   
+  [The Algorithmic Foundations of Differential Pivacy](https://differential-privacy.cn/)      
+  [Programming Differential Pivacy](https://programming-dp.com/)       
+  ## Repos
+  [Interpretability Experiments](https://github.com/nrimsky/LM-exp)       
+  [Representation Fine-tuning](https://github.com/stanfordnlp/pyreft)      
+  [Multimodal Unlearning](https://github.com/somvy/multimodal_unlearning)     
+  [Courese work for Database](https://github.com/billaronis/Optimal-Route-Finding-System-For-Ships-NodeJS-Dijkstra)       
+  ## Books
+  [Advanced Calculus by Woods (recommended by Richard Feynman)](https://archive.org/details/advancedcalculuswoods/page/n7/mode/2up)        
+  [Information Theory, Inference, and Learning Algorithms by David MacKay](https://www.inference.org.uk/mackay/itila/)      
+  ## People 
+  **I sincerely appreciate everyone who has helped me!**    
+  [Nrimsky](https://github.com/nrimsky)  
+  [NielsRogge](https://github.com/NielsRogge)
+  [Tianyi Tang](https://github.com/StevenTang1998)       
+  [Zhengxuan Wu](https://github.com/frankaging)       
+  [Alexey Dontsov](https://github.com/somvy)       
+  [Weijia Wu](https://github.com/weijiawu)   
+  [Bill Aronis](https://github.com/billaronis)     
+</details>
