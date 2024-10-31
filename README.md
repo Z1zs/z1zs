@@ -137,7 +137,7 @@
   ## People 
   **I sincerely appreciate everyone who has helped me!**    
   [Nrimsky](https://github.com/nrimsky)  
-  [NielsRogge](https://github.com/NielsRogge)
+  [NielsRogge](https://github.com/NielsRogge)   
   [Tianyi Tang](https://github.com/StevenTang1998)       
   [Zhengxuan Wu](https://github.com/frankaging)       
   [Alexey Dontsov](https://github.com/somvy)       
