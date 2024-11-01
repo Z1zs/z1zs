@@ -98,11 +98,11 @@
 ## My Github Stats 
 - - - -
   
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z1zs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
+[![Z1zs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z1zs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Z1zs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1zs&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1zs&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Z1zs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Z1zs&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Z1zs's streak" /></p>
   
 ### Github Trophies
 
