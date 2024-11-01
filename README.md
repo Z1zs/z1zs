@@ -95,26 +95,25 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## My Github Stats 
+- - - -
+  
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z1zs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
-### Activity  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Z1zs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1zs&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
-</td><td valign="top" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+  
+### Github Trophies
 
-### Language  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z1zs&hide_border=true&layout=compact" align="left" />  
-</td></tr></table> 
-<br/>  
+<img src="https://github-profile-trophy.vercel.app/?username=Z1zs&theme=algolia&column=5">
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Z1zs&color=brightgreen" align="left" />
-</div>  
+### Wakatime Stats
+ <p>
+    <img src="https://wakatime.com/share/@fcf24d67-b15c-4f5f-9dc6-d0395a209eac/0fc06c27-1afa-4a5d-bf10-e8a5b2e8fa34.svg" height="320" width="420">
+ </p> 
 
 <br />
-
 
 <details>
   <summary>
