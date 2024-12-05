@@ -102,17 +102,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1zs&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Z1zs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Z1zs&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Z1zs's streak" /></p>
-  
-### Github Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Z1zs&theme=algolia&column=5">
-
-### Wakatime Stats
- <p>
-    <img src="https://wakatime.com/share/@fcf24d67-b15c-4f5f-9dc6-d0395a209eac/0fc06c27-1afa-4a5d-bf10-e8a5b2e8fa34.svg" height="320" width="420">
- </p> 
-
 <br />
 
 <details>
